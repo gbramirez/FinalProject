@@ -2,10 +2,11 @@
 ## Skill Distillery Final Project
 
 ## Team Members
+* Brian Ramirez, SCRUM Master
 * David Estrada, Repository Owner
 * Mick LaGassey
 * Shaun Reass, Database Administrator
-* Brian Ramirez, SCRUM Master
+
 
 ## Overview
 
